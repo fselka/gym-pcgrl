@@ -5,6 +5,7 @@ for inference test zelda game. Worked for Windows on Python 3.7
 pip3 install tensorflow==1.15
 pip3 install stable-baselines==2.9.0
 pip3 install gym==0.18
+pip3 install protobuf==3.20
 cd gym-pcgrl
 pip install -e .
 cd ..

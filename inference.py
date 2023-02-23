@@ -37,7 +37,7 @@ def infer(game, representation, model_path, **kwargs):
                 print(info[0])
             if dones:
                 break
-        time.sleep(0.2)
+        time.sleep(0.8)
 
 ################################## MAIN ########################################
 game = 'zelda'
