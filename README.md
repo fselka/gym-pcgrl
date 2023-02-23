@@ -6,7 +6,7 @@ pip3 install tensorflow==1.15
 pip3 install stable-baselines==2.9.0
 pip3 install gym==0.18
 cd gym-pcgrl
-pip install -e .
+pip3 install -e .
 cd ..
 python inference.py
 ```
